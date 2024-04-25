@@ -1,0 +1,1 @@
+/home/oslab/my/os/target/riscv64gc-unknown-none-elf/release/os: /home/oslab/my/os/src/console.rs /home/oslab/my/os/src/entry.asm /home/oslab/my/os/src/lang_items.rs /home/oslab/my/os/src/logging.rs /home/oslab/my/os/src/main.rs /home/oslab/my/os/src/sbi.rs
